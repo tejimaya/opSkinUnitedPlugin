@@ -1,0 +1,9 @@
+◆opSkinUnitedPlugin概要
+OpenPNE用Skinプラグインです。
+opUploadFilePluginを使用するために必須のプラグインとなります。
+
+◆インストール
+/plugins/に設置
+
+◆プラグイン設定
+・管理画面->プラグイン設定->スキンプラグイン設定にてopSkinUnitedPluginを選択。
