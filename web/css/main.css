@@ -1692,6 +1692,10 @@ div.operation ul.moreInfo li {
   padding: 3px;
 }
 
+.loginForm td {
+  width: 160px;
+}
+
 .loginForm input {
   border: 1px solid #888888;
   background-color: #f8f8f8;
