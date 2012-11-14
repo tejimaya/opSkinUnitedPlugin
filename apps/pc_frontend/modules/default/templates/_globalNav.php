@@ -1,4 +1,4 @@
-<?php if ($navs): ?>
+<?php if ($navs && 0 < count($navs)): ?>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
 メニュー
